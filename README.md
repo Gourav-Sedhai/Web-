@@ -1,3 +1,4 @@
 # Web-based Financial Graph
 ----------------------------
-simple web based financial graph using python
+Simple web based financial graph using python
+*Updated
